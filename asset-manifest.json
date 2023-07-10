@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "https://kishorevr97.github.io/csb-wz5fz5/static/js/main.ee647b41.chunk.js",
-    "main.js.map": "https://kishorevr97.github.io/csb-wz5fz5/static/js/main.ee647b41.chunk.js.map",
+    "main.js": "https://kishorevr97.github.io/csb-wz5fz5/static/js/main.4c5cadd7.chunk.js",
+    "main.js.map": "https://kishorevr97.github.io/csb-wz5fz5/static/js/main.4c5cadd7.chunk.js.map",
     "runtime-main.js": "https://kishorevr97.github.io/csb-wz5fz5/static/js/runtime-main.67e69438.js",
     "runtime-main.js.map": "https://kishorevr97.github.io/csb-wz5fz5/static/js/runtime-main.67e69438.js.map",
     "static/js/2.4b402cd9.chunk.js": "https://kishorevr97.github.io/csb-wz5fz5/static/js/2.4b402cd9.chunk.js",
     "static/js/2.4b402cd9.chunk.js.map": "https://kishorevr97.github.io/csb-wz5fz5/static/js/2.4b402cd9.chunk.js.map",
     "index.html": "https://kishorevr97.github.io/csb-wz5fz5/index.html",
-    "precache-manifest.239e1c8988dc6ad720dc5e8131889a4c.js": "https://kishorevr97.github.io/csb-wz5fz5/precache-manifest.239e1c8988dc6ad720dc5e8131889a4c.js",
+    "precache-manifest.23a520f52da495766fd418f7b5321b54.js": "https://kishorevr97.github.io/csb-wz5fz5/precache-manifest.23a520f52da495766fd418f7b5321b54.js",
     "service-worker.js": "https://kishorevr97.github.io/csb-wz5fz5/service-worker.js"
   },
   "entrypoints": [
     "static/js/runtime-main.67e69438.js",
     "static/js/2.4b402cd9.chunk.js",
-    "static/js/main.ee647b41.chunk.js"
+    "static/js/main.4c5cadd7.chunk.js"
   ]
 }

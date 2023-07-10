@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e540a410c3c2c75e3f6fdf47bd575d44",
+    "revision": "2a5202084815c6880a2538621c8d95ed",
     "url": "https://kishorevr97.github.io/csb-wz5fz5/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kishorevr97.github.io/csb-wz5fz5/static/js/2.4b402cd9.chunk.js"
   },
   {
-    "revision": "c9e8a88dc5580c73c75d",
-    "url": "https://kishorevr97.github.io/csb-wz5fz5/static/js/main.ee647b41.chunk.js"
+    "revision": "2d7d6a8b570a20895a87",
+    "url": "https://kishorevr97.github.io/csb-wz5fz5/static/js/main.4c5cadd7.chunk.js"
   },
   {
     "revision": "9db0b59ef2cb4bf23c82",
